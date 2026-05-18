@@ -1,5 +1,5 @@
 # cqrIS
-Fit Censored Quantile Regression with Induced Smoothing res Use cqrIS With (In) R Software
+Fit Censored Quantile Regression with Induced Smoothingres Use cqrIS With (In) R Software
 
 Olah Data Semarang
 
